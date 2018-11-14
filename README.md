@@ -24,3 +24,8 @@ GET `http://localhost`.
 
 ## Library
 [PHP Simple HTML DOM](http://simplehtmldom.sourceforge.net/)
+
+## License
+This project is licensed under the GNU GPLv3 License - see the [LICENSE](LICENSE) file for details
+
+Made with :heart: by [Felipe Mendes](https://github.com/felipemendes).
